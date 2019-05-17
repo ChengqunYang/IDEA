@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/basis_code.iml" filepath="$PROJECT_DIR$/basis_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/functionalInterface/functionalInterface.iml" filepath="$PROJECT_DIR$/functionalInterface/functionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/servlet01/servlet01.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat01/tomcat01.iml" filepath="$PROJECT_DIR$/tomcat01/tomcat01.iml" />
