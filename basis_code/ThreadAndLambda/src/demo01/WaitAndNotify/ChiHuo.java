@@ -1,4 +1,4 @@
-package WaitAndNotify;
+package demo01.WaitAndNotify;
 /*
     消费者(吃货类) :是一个线程类,可以继承Thread
     设置线程任务(run):吃包子

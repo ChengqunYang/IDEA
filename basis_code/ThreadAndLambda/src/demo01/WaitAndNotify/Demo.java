@@ -1,4 +1,4 @@
-package WaitAndNotify;
+package demo01.WaitAndNotify;
 /*
 测试类:
     包含main方法,程序执行的入口,启动程序
