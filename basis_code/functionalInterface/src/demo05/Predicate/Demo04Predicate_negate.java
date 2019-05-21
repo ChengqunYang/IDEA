@@ -19,12 +19,13 @@ public class Demo04Predicate_negate {
             一个用于判断字符串的长度是否大于5
      */
      public static boolean checkString(String s, Predicate<String> pre) {
-         return !pre.test(s);
+         //return !pre.test(s);
+         return pre.negate().test(s);
      }
 
     public static void main(String[] args) {
         //定义一个字符串,
-        String s = "abd";
+        String s = "abddef";
         //调用checkString 方法,传递参数字符串和Lambda表达式
         boolean b = checkString(s,(str)->{
             //判断字符串的长度是否大于5,并返回结果

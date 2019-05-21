@@ -16,6 +16,7 @@ public class Demo01Consumer {
         可以使用Consumer接口消费字符串的姓名
      */
     public static void method(String name, Consumer<String> con) {
+
         con.accept(name);
     }
 
