@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 /*
     Stream流中的常用方法 forEach
     void foreach(Consumer<? super T> action);
-    该方法接受一个Consumer接口函数,会将每一个流元素交给该函数进行处理
+    该方法接受一个Consumer接口,会将每一个流元素交给该接口的accept函数进行处理(消费)
     Consumer接口是一个消费型的函数式接口,可以传递一个Lambda表达式,消费数据
 
     简单记:

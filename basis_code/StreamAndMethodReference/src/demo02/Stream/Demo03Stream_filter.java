@@ -22,7 +22,7 @@ public class Demo03Stream_filter {
         //对Stream流中的数据进行过滤,只留下姓张的人
         Stream stream1 = stream.filter((name)->{
             return name.startsWith("张");
-            //当Predicate接口返回值为true时,将元素加入到新的流中
+            //当Predicate接口返回值为true时,将元素加入到新的流中,否则从不加入
         });
         //遍历Stream1流
         stream1.forEach(name-> System.out.println(name));
