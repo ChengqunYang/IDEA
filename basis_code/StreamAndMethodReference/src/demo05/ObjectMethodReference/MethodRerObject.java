@@ -1,4 +1,4 @@
-package deom05.ObjectMethodReference;
+package demo05.ObjectMethodReference;
 
 public class MethodRerObject {
     /*

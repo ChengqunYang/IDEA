@@ -1,4 +1,4 @@
-package deom05.ObjectMethodReference;
+package demo05.ObjectMethodReference;
 /*
     定义一个打印的函数式接口
  */

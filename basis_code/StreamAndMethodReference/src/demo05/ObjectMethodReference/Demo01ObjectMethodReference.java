@@ -1,4 +1,4 @@
-package deom05.ObjectMethodReference;
+package demo05.ObjectMethodReference;
 /*
     通过对象名引用成员方法
     使用前提是对象名是已经存在的,成员方法也是已经存在的
@@ -17,7 +17,7 @@ public class Demo01ObjectMethodReference {
             //创建MethodRerObject对象
             MethodRerObject obj = new MethodRerObject();
             //调用MeathodRerObject对象中的成员方法,printUpperCaseString(),把字符串按照大写输出
-            System.out.println(str);
+            //System.out.println(str);
             obj.printUpperCaseString(str);
         });
         /*
