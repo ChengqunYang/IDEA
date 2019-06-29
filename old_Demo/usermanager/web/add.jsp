@@ -25,7 +25,7 @@
 </head>
 <body>
 <div class="container">
-    <center><h3>添加联系人页面</h3></center>
+    <center><h3>添加旅客信息页面</h3></center>
     <form action="${pageContext.request.contextPath}/addUserServlet" method="post">
         <div class="form-group">
             <label for="name">姓名：</label>
@@ -39,27 +39,33 @@
         </div>
 
         <div class="form-group">
-            <label for="age">年龄：</label>
-            <input type="text" class="form-control" id="age" name="age" placeholder="请输入年龄">
+            <label for="wp">工作地点</label>
+            <input type="text" class="form-control" id="wp" name="wp" placeholder="请输入工作地点">
         </div>
 
         <div class="form-group">
-            <label for="address">籍贯：</label>
-            <select name="address" class="form-control" id="address">
-                <option value="陕西">陕西</option>
-                <option value="北京">北京</option>
-                <option value="上海">上海</option>
-            </select>
+            <label for="travellerid">身份证号码</label>
+            <input type="text" class="form-control" id="travellerid" name="travellerid" placeholder="请输入身份证号">
         </div>
 
         <div class="form-group">
-            <label for="qq">QQ：</label>
-            <input type="text" class="form-control" id="qq" name="qq" placeholder="请输入QQ号码"/>
+            <label for="time">出发时间</label>
+            <input type="text" class="form-control" id="time" name="time" placeholder="请输入出发时间">
         </div>
 
         <div class="form-group">
-            <label for="email">Email：</label>
-            <input type="text" class="form-control" id="email" name="email" placeholder="请输入邮箱地址"/>
+            <label for="strat">出发地</label>
+            <input type="text" class="form-control" id="strat" name="start" placeholder="请输入出发地">
+        </div>
+
+        <div class="form-group">
+            <label for="end">目的地</label>
+            <input type="text" class="form-control" id="end" name="end" placeholder="请输入目的地">
+        </div>
+
+        <div class="form-group">
+            <label for="level">舱位要求</label>
+            <input type="text" class="form-control" id="level" name="level" placeholder="请输入舱位要求">
         </div>
 
         <div class="form-group" style="text-align: center">

@@ -24,14 +24,12 @@
   <div >${user.name},欢迎您</div>
   <div align="center">
     <a
-            href="${pageContext.request.contextPath}/findUserByPageServlet" style="text-decoration:none;font-size:33px">查询所有用户信息
+            href="${pageContext.request.contextPath}/add.jsp" style="text-decoration:none;font-size:33px">添加旅客
+    </a><br>
+    <a
+            href="${pageContext.request.contextPath}/list.jsp" style="text-decoration:none;font-size:33px">查看旅客信息
     </a>
   </div>
-
-
-
-
-
 
 </body>
 </html>
