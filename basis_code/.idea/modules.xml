@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/StreamAndMethodReference/StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/StreamAndMethodReference/StreamAndMethodReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadAndLambda/ThreadAndLambda.iml" filepath="$PROJECT_DIR$/ThreadAndLambda/ThreadAndLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie&amp;session/cookie&amp;session.iml" filepath="$PROJECT_DIR$/cookie&amp;session/cookie&amp;session.iml" />
       <module fileurl="file://$PROJECT_DIR$/functionalInterface/functionalInterface.iml" filepath="$PROJECT_DIR$/functionalInterface/functionalInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/servlet01/servlet01.iml" filepath="$PROJECT_DIR$/servlet01/servlet01.iml" />
       <module fileurl="file://$PROJECT_DIR$/tomcat01/tomcat01.iml" filepath="$PROJECT_DIR$/tomcat01/tomcat01.iml" />
