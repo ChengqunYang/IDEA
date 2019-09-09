@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="dao.UserDao">
+    <!--查询所有-->
+    <select id="findAll" resultType="domain.User">
+        SELECT * FROM user;
+    </select>
+    <!--保存用户-->
+    <insert id="saveUser" parameterType="domain.User">
+          <!--配置插入操作后,获取插入数据的id-->
+        <selectKey keyProperty="id" keyColumn="id" resultType="int" order="AFTER">
+            SELECT last_insert_id()
+        </selectKey>
+          INSERT INTO user(username, birthday, sex, address) VALUES (#{username},#{birthday},#{sex},#{address});
+    </insert>
+    <!--更新用户-->
+    <update id="updateUser" parameterType="domain.User">
+        UPDATE user SET username=#{username},birthday=#{birthday},sex=#{sex},address=#{address} WHERE id=#{id};
+    </update>
+    <!--删除用户-->
+    <delete id="deleteUser" parameterType="Integer">
+        DELETE FROM user WHERE id = #{userid};
+    </delete>
+    <!--查询一个-->
+    <select id="findById" parameterType="Integer" resultType="user">
+        SELECT * FROM user WHERE id = #{userid};
+    </select>
+    <!--模糊查询-->
+    <select id="findByName" parameterType="String" resultType="User">
+          SELECT * FROM user where username like "%"#{name}"%";
+          <!--SELECT * FROM user where username like "%${value}%";-->
+    </select>
+    <!--获取用户的总记录条数-->
+    <select id="findTotal" resultType="int">
+        SELECT COUNT(id) from user;
+    </select>
+    <!--根据QueryVo的条件查询用户-->
+    <select id="findUserByVo" parameterType="domain.QueryVo" resultType="User">
+        SELECT * FROM user where username like "%"#{user.username}"%";
+    </select>
+    <!--根据条件查询
+    <select id="findUserByCondition" resultType="user" parameterType="user">
+        SELECT * FROM user WHERE 1=1
+        <if test="username != null">
+            and username = #{username}
+        </if>
+        <if test="sex != null">
+            and sex = #{sex}
+        </if>
+    </select>
+    -->
+    <select id="findUserByCondition" resultType="user" parameterType="user">
+        SELECT * FROM user
+        <where>
+        <if test="username != null">
+            and username = #{username}
+        </if>
+        <if test="sex != null">
+            and sex = #{sex}
+        </if>
+        </where>
+    </select>
+    <!--根据QueryVo中的id集合实现查询用户列表-->
+    <select id="findUserInIds" resultType="User" parameterType="queryvo">
+        SELECT * from user
+        <where>
+            <if test="ids != null and ids.size()>0">
+                <foreach collection="ids" open="and id in(" close=")" item="id" separator=",">
+                    #{id}
+                </foreach>
+            </if>
+        </where>
+    </select>
+</mapper>
