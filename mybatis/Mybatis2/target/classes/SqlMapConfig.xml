@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--将数据库连接的基本信息,提出来写,甚至可以设置properties标签的url属性或者resource属性来从外部引用配置文件-->
+    <properties>
+        <property name="driver" value="com.mysql.jdbc.Driver"/>
+        <property name="url" value="jdbc:mysql://localhost:3306/mybatis"/>
+        <property name="username" value="root"/>
+        <property name="password" value="975864"/>
+    </properties>
+
+    <!--使用typeAliases配置别名,它只能配置domain中类的别名-->
+    <typeAliases>
+        <!--typeAlias用于配置别名,type属性指定的是实体类权限定类名,alias属性指定别名,当指定了别名之后就不再区分大小写-->
+        <typeAlias type="domain.User" alias="user"></typeAlias>
+        <!--package标签用于指定要配置别名的包,当指定后,该包下的实体类都会注册别名,并且类名就是别名,不在区分大小写-->
+        <package name="domain"></package>
+    </typeAliases>
+    <!--配置环境-->
+    <environments default="mysql">
+        <!--配置mysql的环境-->
+        <environment id="mysql">
+            <!--配置事务的类型-->
+            <transactionManager type="JDBC"></transactionManager>
+            <!--配置数据源(连接池),有pooled(使用连接池的数据源)和unpooled(不使用连接池的数据源)和jndi三种配置-->
+            <dataSource type="POOLED">
+                <!--配置连接数据库的四个基本信息-->
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!--指定映射配置文件的指定位置,映射配置文件指的是每个dao独立的配置文件-->
+    <mappers>
+        <!--<mapper resource="dao/UserDao.xml"></mapper>-->
+        <!--package是用用于指定dao接口所在的包,当指定了之后就不需要写mapper以及resource或者class了-->
+        <package name="dao"></package>
+    </mappers>
+</configuration>
