@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hainengda/hainengda.iml" filepath="$PROJECT_DIR$/hainengda/hainengda.iml" />
       <module fileurl="file://$PROJECT_DIR$/mafengwo/mafengwo.iml" filepath="$PROJECT_DIR$/mafengwo/mafengwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/sougou/sougou.iml" filepath="$PROJECT_DIR$/sougou/sougou.iml" />
       <module fileurl="file://$PROJECT_DIR$/xiaomi/xiaomi.iml" filepath="$PROJECT_DIR$/xiaomi/xiaomi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yongyou/yongyou.iml" filepath="$PROJECT_DIR$/yongyou/yongyou.iml" />
     </modules>
   </component>
 </project>
