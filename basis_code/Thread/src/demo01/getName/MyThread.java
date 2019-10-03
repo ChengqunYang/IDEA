@@ -1,7 +1,5 @@
 package demo01.getName;
 
-import java.security.SecureRandom;
-
 /**
  * 获取线程的名称:
  *      1.使用Thread类中的方法getName()
@@ -29,4 +27,5 @@ public class MyThread extends Thread{
         System.out.println(Thread.currentThread().getName());
 
     }
+
 }

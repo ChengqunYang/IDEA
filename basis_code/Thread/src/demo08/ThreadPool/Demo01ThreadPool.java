@@ -27,7 +27,7 @@ import java.util.concurrent.Executors;
 public class Demo01ThreadPool {
     public static void main(String[] args) {
         //1.使用线程池工厂类Executors里面提供的静态方法newFixedThreadPool生产一个指定线程数量的线程池
-        ExecutorService es = Executors.newFixedThreadPool(3);
+        ExecutorService es = Executors.newFixedThreadPool(3); //返回ThreadPoolExecutor
         //3.调用ExecutorService中的方法submit,传递线程任务(实现类),开启线程,执行run方法
         es.submit(()->{
             System.out.println(Thread.currentThread().getName());

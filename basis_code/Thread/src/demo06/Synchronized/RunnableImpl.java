@@ -60,6 +60,8 @@ public class RunnableImpl implements Runnable {
                     //票存在,卖票
                     System.out.println(Thread.currentThread().getName()+"正在卖第"+ticket+"张票");
                     ticket--;
+                }else{
+                    break;
                 }
             }
         }
