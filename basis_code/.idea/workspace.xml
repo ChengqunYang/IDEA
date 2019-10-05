@@ -7,12 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45bb653-a088-4af4-b101-617bc5d3ec2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../advace_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../audition/sort/src/selectSort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../audition/sort/src/selectSort/SelectSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/demo01/getName/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/src/demo01/getName/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/demo06/Synchronized/RunnableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/src/demo06/Synchronized/RunnableImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thread/src/demo08/ThreadPool/Demo01ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/src/demo08/ThreadPool/Demo01ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/demo01/getName/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thread/demo01/getName/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thread/demo06/Synchronized/RunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thread/demo06/Synchronized/RunnableImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01Ticket (1)">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.40">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -353,10 +350,10 @@
     <list>
       <item itemvalue="Application.Demo01Arrays" />
       <item itemvalue="Application.Man" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
       <item itemvalue="Application.Demo01ThreadPool" />
       <item itemvalue="Application.Demo01Ticket" />
       <item itemvalue="Application.Demo01Ticket (1)" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
     </list>
     <recent_temporary>
       <list>
@@ -423,6 +420,8 @@
       <workItem from="1566008193489" duration="62000" />
       <workItem from="1569300220065" duration="1799000" />
       <workItem from="1569656774502" duration="14735000" />
+      <workItem from="1570186010597" duration="101000" />
+      <workItem from="1570186340047" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="提交消费者与生产者练习代码">
       <created>1558148870056</created>
