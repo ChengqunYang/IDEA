@@ -1,25 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b708e70b-f2fc-4477-8606-46ef66f24c13" name="Default" comment="">
+    <list default="true" id="a09ddfb1-50b9-4bff-b6c6-d7aedaba0cd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_demo01/maven_demo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_demo01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_demo01/src/main/java/dao/ItemsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_demo01/src/main/java/dao/impl/ItemsDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_demo01/src/main/java/domain/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven_demo01/src/test/java/domain/ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs_SDK/obs_SDK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obs_SDK/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/artifacts/ssm_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/artifacts/ssm_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/test/TestMybatis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/test/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/webapp/WEB-INF/pages/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/ssm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/.idea/dataSources/90dd241e-916e-4d1f-b892-9162d872b1d9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/.idea/dataSources/90dd241e-916e-4d1f-b892-9162d872b1d9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/travel/src/main/java/com/monster/travel/web/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/travel/src/main/java/com/monster/travel/web/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/travel/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/travel/src/main/webapp/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/travel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/travel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/Thread/src/demo06/Synchronized/Demo01Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/Thread/src/demo06/Synchronized/Demo01Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/out/production/Thread/demo06/Synchronized/Demo01Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/out/production/Thread/demo06/Synchronized/Demo01Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/out/production/servlet01/web/request/RequestDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/out/production/servlet01/web/request/RequestDemo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/out/production/servlet01/web/servlet/DownloadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/out/production/servlet01/web/servlet/DownloadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/servlet01/src/web/request/RequestDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/servlet01/src/web/request/RequestDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basis_code/servlet01/src/web/request/RequestDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basis_code/servlet01/src/web/request/RequestDemo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven_java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/ItemsDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/impl/ItemsDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/domain/ItemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/dataSources/d1e48ffb-ea4d-4d26-b779-d06fcd197654.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/dataSources/d1e48ffb-ea4d-4d26-b779-d06fcd197654.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="maven_java" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -41,17 +116,29 @@
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectId" id="1RGisYwRAzEo7t9lGYGoQWPlt6P" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1YzA3hdwjuCmR4bwUfV47WpZ0ij" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/maven_demo01" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.13683224" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\maven_java\maven_demo01" />
+      <recent name="D:\IdeaProjects\maven_java\maven_demo01\src\main\java" />
+      <recent name="D:\IdeaProjects\maven_java\maven_demo01\src\test\java" />
+      <recent name="D:\IdeaProjects\maven_java\maven_demo01\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,62 +152,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ItemTest">
+  <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.monster.App" />
-      <module name="maven_java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.monster.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.ItemTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ItemTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="maven_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="domain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="domain" />
-      <option name="MAIN_CLASS_NAME" value="domain.ItemTest" />
-      <option name="METHOD_NAME" value="findAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,82 +190,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="JUnit.ItemTest.findAll" />
-      <item itemvalue="JUnit.ItemTest" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ItemTest" />
-        <item itemvalue="JUnit.ItemTest.findAll" />
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b708e70b-f2fc-4477-8606-46ef66f24c13" name="Default" comment="" />
-      <created>1557668742396</created>
+      <changelist id="a09ddfb1-50b9-4bff-b6c6-d7aedaba0cd8" name="Default Changelist" comment="" />
+      <created>1583934851254</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557668742396</updated>
-      <workItem from="1557668745162" duration="1167000" />
-      <workItem from="1557669919062" duration="184000" />
-      <workItem from="1557671617784" duration="26000" />
-      <workItem from="1557737985985" duration="4310000" />
-      <workItem from="1561517445939" duration="51000" />
-      <workItem from="1564743599342" duration="679000" />
-      <workItem from="1564808692226" duration="21000" />
-      <workItem from="1565593002184" duration="11000" />
-      <workItem from="1566005624250" duration="381000" />
-      <workItem from="1566006669013" duration="853000" />
-      <workItem from="1566007540701" duration="342000" />
-      <workItem from="1566007921896" duration="86000" />
-      <workItem from="1566008095215" duration="96000" />
-      <workItem from="1566008257876" duration="30000" />
-      <workItem from="1566009872612" duration="29000" />
-      <workItem from="1566010116176" duration="20000" />
-      <workItem from="1566144088061" duration="25000" />
-      <workItem from="1566204314455" duration="86000" />
-      <workItem from="1569300042730" duration="43000" />
+      <updated>1583934851254</updated>
+      <workItem from="1583934852856" duration="744000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="ItemTest - 2019.08.17 at 09h 52m 48s.xml">
-      <configuration name="ItemTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemTest_findAll - 2019.05.13 at 17h 39m 00s.xml">
-      <configuration name="ItemTest.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemTest_findAll - 2019.05.13 at 17h 41m 42s.xml">
-      <configuration name="ItemTest.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemTest_findAll - 2019.05.13 at 19h 27m 21s.xml">
-      <configuration name="ItemTest.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemTest_findAll - 2019.05.13 at 19h 30m 58s.xml">
-      <configuration name="ItemTest.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemTest_findAll - 2019.08.02 at 19h 02m 42s.xml">
-      <configuration name="ItemTest.findAll" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ItemTest_findAll - 2019.08.02 at 19h 05m 11s.xml">
-      <configuration name="ItemTest.findAll" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -241,111 +219,7 @@
       </map>
     </option>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>maven_java</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: junit:junit:4.12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-  </component>
-  <component name="mavenExecuteGoalHistory">
-    <option value="$PROJECT_DIR$" />
-    <option value="tomcat7:run" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

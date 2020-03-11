@@ -7,9 +7,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c45bb653-a088-4af4-b101-617bc5d3ec2a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../mybatis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/artifacts/ssm_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/artifacts/ssm_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_tx_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/test/TestMybatis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/java/com/monster/test/TestSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/webapp/WEB-INF/pages/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_java/ssm/ssm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/.idea/dataSources/90dd241e-916e-4d1f-b892-9162d872b1d9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/.idea/dataSources/90dd241e-916e-4d1f-b892-9162d872b1d9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../advace_code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../audition/sort/src/selectSort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../audition/sort/src/selectSort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advace_code/travel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../advace_code/travel/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread/src/demo06/Synchronized/Demo01Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/Thread/src/demo06/Synchronized/Demo01Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thread/demo06/Synchronized/Demo01Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thread/demo06/Synchronized/Demo01Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/servlet01/web/request/RequestDemo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/servlet01/web/request/RequestDemo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/servlet01/web/servlet/DownloadServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/servlet01/web/servlet/DownloadServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet01/src/web/request/RequestDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet01/src/web/request/RequestDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet01/src/web/request/RequestDemo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet01/src/web/request/RequestDemo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/dataSources/d1e48ffb-ea4d-4d26-b779-d06fcd197654.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/dataSources/d1e48ffb-ea4d-4d26-b779-d06fcd197654.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mybatis/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,16 +124,16 @@
   <component name="ProjectId" id="1RGjEzkntVxA0YeY8xkxAVbeQfN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.13683224" />
     <property name="project.structure.side.proportion" value="0.23663254" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -102,37 +163,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.40">
+  <component name="RunManager" selected="Application.Demo01WaitAndNotify">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo03.Lambda.Demo01Arrays" />
-      <module name="ThreadAndLambda" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo03.Lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo08.ThreadPool.Demo01ThreadPool" />
-      <module name="Thread" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo08.ThreadPool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -165,13 +198,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Man" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo06.SuperMethodReference.Man" />
-      <module name="StreamAndMethodReference" />
+    <configuration name="Demo01WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo07.WaitAndNotify.Demo01WaitAndNotify" />
+      <module name="Thread" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo06.SuperMethodReference.*" />
+          <option name="PATTERN" value="demo07.WaitAndNotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02WaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo07.WaitAndNotify.Demo02WaitAndNotify" />
+      <module name="Thread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo07.WaitAndNotify.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RequestDemo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web.request.RequestDemo6" />
+      <module name="servlet01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.request.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,20 +409,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo01Arrays" />
-      <item itemvalue="Application.Man" />
-      <item itemvalue="Application.Demo01ThreadPool" />
       <item itemvalue="Application.Demo01Ticket" />
       <item itemvalue="Application.Demo01Ticket (1)" />
+      <item itemvalue="Application.RequestDemo6" />
+      <item itemvalue="Application.Demo02WaitAndNotify" />
+      <item itemvalue="Application.Demo01WaitAndNotify" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.40" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01WaitAndNotify" />
+        <item itemvalue="Application.Demo02WaitAndNotify" />
         <item itemvalue="Application.Demo01Ticket (1)" />
+        <item itemvalue="Application.RequestDemo6" />
         <item itemvalue="Application.Demo01Ticket" />
-        <item itemvalue="Application.Demo01ThreadPool" />
-        <item itemvalue="Application.Man" />
-        <item itemvalue="Application.Demo01Arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -422,6 +483,10 @@
       <workItem from="1569656774502" duration="14735000" />
       <workItem from="1570186010597" duration="101000" />
       <workItem from="1570186340047" duration="1392000" />
+      <workItem from="1571041884630" duration="11124000" />
+      <workItem from="1571399436960" duration="2071000" />
+      <workItem from="1571535234542" duration="3072000" />
+      <workItem from="1576730147560" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="提交消费者与生产者练习代码">
       <created>1558148870056</created>
@@ -477,106 +542,5 @@
     <MESSAGE value="response代码提交" />
     <MESSAGE value="request代码提交" />
     <option name="LAST_COMMIT_MESSAGE" value="request代码提交" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>servlet01:war exploded</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Web</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.23663254" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>cookie&amp;session</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.23663254" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>javax.servlet.jsp.jstl</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.23663254" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

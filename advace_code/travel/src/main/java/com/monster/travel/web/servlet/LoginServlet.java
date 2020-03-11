@@ -82,7 +82,7 @@ public class LoginServlet extends HttpServlet {
         //将用户姓名存入到session中,用于index.html的显示
         session.setAttribute("user",u);
 
-        //相应数据
+        //响应数据
         //将info对象序列化为json
         ObjectMapper mapper = new ObjectMapper();
         response.setContentType("application/json;charset=utf-8");

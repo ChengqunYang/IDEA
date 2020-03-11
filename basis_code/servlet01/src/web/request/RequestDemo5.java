@@ -18,6 +18,7 @@ public class RequestDemo5 extends HttpServlet {
         request.setAttribute("msg","hello");
 
      request.getRequestDispatcher("/RequestDemo6").forward(request,response);
+//     response.sendRedirect("");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

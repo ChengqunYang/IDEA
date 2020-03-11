@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="269b1a62-3f04-4caf-bd55-f12ba1af2920" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/src/main/java/com/monster/travel/web/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/main/java/com/monster/travel/web/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel/src/main/webapp/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/main/webapp/register.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -379,6 +381,16 @@
       <workItem from="1568044111254" duration="747000" />
       <workItem from="1568096851788" duration="601000" />
       <workItem from="1570185901490" duration="8000" />
+      <workItem from="1571358099328" duration="2102000" />
+      <workItem from="1571535229538" duration="3920000" />
+      <workItem from="1574385354123" duration="14000" />
+      <workItem from="1576729643669" duration="457000" />
+      <workItem from="1577757572408" duration="1970000" />
+      <workItem from="1577767722796" duration="1643000" />
+      <workItem from="1577778237438" duration="1177000" />
+      <workItem from="1577783623011" duration="1651000" />
+      <workItem from="1577893346133" duration="332000" />
+      <workItem from="1583907369858" duration="9000" />
     </task>
     <servers />
   </component>
@@ -389,15 +401,6 @@
     <history-entry file="Demo01_test1 - 2019.05.14 at 12h 23m 36s.xml">
       <configuration name="Demo01.test1" configurationId="JUnit" />
     </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />

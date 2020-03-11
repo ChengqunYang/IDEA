@@ -12,9 +12,14 @@ public class Demo01Ticket {
         Thread t0 = new Thread(run);
         Thread t1 = new Thread(run);
         Thread t2 = new Thread(run);
+        Thread t3 = new Thread(new RunnableImpl());
         //调用start方法开启多线程
         t0.start();
         t1.start();
         t2.start();
+     /*   int b = 5;
+        System.out.println(
+                b+=b*=b%=3
+        );*/
     }
 }

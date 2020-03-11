@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/maven_java.iml" filepath="$PROJECT_DIR$/maven_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_demo01/maven_demo01.iml" filepath="$PROJECT_DIR$/maven_demo01/maven_demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obs_SDK/obs_SDK.iml" filepath="$PROJECT_DIR$/obs_SDK/obs_SDK.iml" />
     </modules>
   </component>
 </project>
